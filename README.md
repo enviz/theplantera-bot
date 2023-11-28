@@ -4,7 +4,7 @@ Fine tuned an open source LLM (Llama2) using PEFT , LoRA for an e-commerce chatb
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/enviz/theplantera-bot.git
 
 2. Create a Conda environment (recommended using Python 3.10):
    ```bash
@@ -19,7 +19,7 @@ Fine tuned an open source LLM (Llama2) using PEFT , LoRA for an e-commerce chatb
    pip install -r requirements.txt
 
 # Usage
-    ```bash
+   ```bash
    streamlit run app.py
 
 # Notebooks and Fine-Tuning
