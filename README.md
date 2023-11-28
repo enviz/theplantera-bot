@@ -3,6 +3,8 @@ Fine tuned an open source LLM (Llama2) using PEFT , LoRA for an e-commerce chatb
 (https://theplantera.com/ )
 ![chatbot_gif](https://github.com/enviz/theplantera-bot/assets/48526315/a6aee69d-82ae-4e15-b49d-35e2c4b6a267)
 
+# Installation
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/enviz/theplantera-bot.git
@@ -19,7 +21,7 @@ Fine tuned an open source LLM (Llama2) using PEFT , LoRA for an e-commerce chatb
    ```bash
    pip install -r requirements.txt
 
-5. Usage
+5. Run the streamlit app
    ```bash
    streamlit run app.py
 
