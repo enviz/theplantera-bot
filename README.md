@@ -20,7 +20,7 @@ Fine tuned an open source LLM (Llama2) using PEFT , LoRA for an e-commerce chatb
 
 # Usage
     ```bash
-    streamlit run app.py
+   streamlit run app.py
 
 # Notebooks and Fine-Tuning
 Explore the notebooks folder for data creation pipelines and fine-tuning code for the Llama2 model.
