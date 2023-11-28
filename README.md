@@ -19,7 +19,7 @@ conda activate myenv
 pip install -r requirements.txt
 
 # Usage
- ```bash
+
 streamlit run app.py
 
 # Notebooks and Fine-Tuning
