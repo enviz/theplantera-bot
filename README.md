@@ -1,6 +1,7 @@
 # Virtual Assistant for an Ecommerce website
 Fine tuned an open source LLM (Llama2) using PEFT , LoRA for an e-commerce chatbot application.
 (https://theplantera.com/ )
+![chatbot_gif](https://github.com/enviz/theplantera-bot/assets/48526315/a6aee69d-82ae-4e15-b49d-35e2c4b6a267)
 
 1. Clone the repository:
    ```bash
@@ -18,12 +19,16 @@ Fine tuned an open source LLM (Llama2) using PEFT , LoRA for an e-commerce chatb
    ```bash
    pip install -r requirements.txt
 
-# Usage
+5. Usage
    ```bash
    streamlit run app.py
 
 # Notebooks and Fine-Tuning
+
 Explore the notebooks folder for data creation pipelines and fine-tuning code for the Llama2 model.
 
+
 # Contributing
+
 If you wish to contribute to this project, feel free to fork the repository and submit pull requests.
+
