@@ -8,19 +8,19 @@ Fine tuned an open source LLM (Llama2) using PEFT , LoRA for an e-commerce chatb
 
 2. Create a Conda environment (recommended using Python 3.10):
    ```bash
-conda create --name theplantera-bot python=3.10
+   conda create --name theplantera-bot python=3.10
    
 3. Activate the Conda environment:
    ```bash
-conda activate myenv
+   conda activate myenv
 
 4. Install required packages :
    ```bash
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 # Usage
     ```bash
-streamlit run app.py
+    streamlit run app.py
 
 # Notebooks and Fine-Tuning
 Explore the notebooks folder for data creation pipelines and fine-tuning code for the Llama2 model.
