@@ -1,0 +1,10 @@
+streamlit==1.22.0
+streamlit_chat==0.0.2.2
+langchain==0.0.173
+datasets==2.15.0
+loralib==0.1.2
+sentencepiece==0.1.99
+git+https://github.com/zphang/transformers@c3dc391
+git+https://github.com/huggingface/peft.git
+bitsandbytes==0.41.2.post2
+scipy==1.11.4
