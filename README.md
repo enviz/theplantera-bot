@@ -17,7 +17,7 @@ Fine tuned an open source LLM (Llama2) using PEFT , LoRA for an e-commerce chatb
    ```bash
    conda activate myenv
 
-4. Install required packages :
+4. Install all the dependencies :
    ```bash
    pip install -r requirements.txt
 
