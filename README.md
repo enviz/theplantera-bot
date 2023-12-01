@@ -15,7 +15,7 @@ Fine tuned an open source LLM (Llama2) using PEFT , LoRA for a chatbot applicati
    
 3. Activate the Conda environment:
    ```bash
-   conda activate myenv
+   conda activate theplantera-bot
 
 4. Install all the dependencies :
    ```bash
