@@ -1,5 +1,5 @@
 # Virtual Assistant for an E-commerce website
-Fine tuned an open source LLM (Llama2) using PEFT , LoRA for a chatbot application.
+Fine tuned an open source Large language model (Llama2) using PEFT , LoRA for a chatbot application.
 (https://theplantera.com/ )
 ![chatbot_gif](https://github.com/enviz/theplantera-bot/assets/48526315/a6aee69d-82ae-4e15-b49d-35e2c4b6a267)
 
